@@ -78,7 +78,7 @@ body{
 .apresentacao__curriculo__sessao{
     color:var(--cor-hoover);
     font-family: var(--font-primaria);
-    font: size 22px;
+    font-size: 22px;
     font-weight: 400;
     display: flex;
     flex-direction: column-reverse;
@@ -88,7 +88,7 @@ body{
 .apresentacao__curriculo__texto{
     color: #795569;
     font-family: var(--font-primaria);
-    font-size: 1.5rem;
+    font-size: 24px;
 }
 
 .apresentacao__curriculo__texto__habilidades{
